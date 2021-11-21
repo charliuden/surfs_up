@@ -9,7 +9,7 @@ The goal of this analysis is to investigate weather data in Oahu with the goal o
 In another script, SurfsUp_Challenge.ipynb, temeratrue data for the months of June and December are also looked at.  
 
 ## Results
-
+Resources/ScreenShot_decemberTemps.png
 ![ScreenShot_juneTemps.png](https://github.com/charliuden/Surfs-Up/Resources/ScreenShot_juneTemps.png)
 ![ScreenShot_decemberTemps.png](https://github.com/charliuden/Surfs-Up/Resources/ScreenShot_decemberTemps.png)
 
