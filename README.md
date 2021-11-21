@@ -10,9 +10,10 @@ In another script, SurfsUp_Challenge.ipynb, temeratrue data for the months of Ju
 
 ## Results
 Resources/ScreenShot_decemberTemps.png
-![ScreenShot_juneTemps.png](https://github.com/charliuden/Surfs-Up/Resources/ScreenShot_juneTemps.png)
-![ScreenShot_decemberTemps.png](https://github.com/charliuden/Surfs-Up/Resources/ScreenShot_decemberTemps.png)
 
+![ScreenShot_juneTemps.png](https://github.com/charliuden/Surfs-Up/blob/main/Resources/ScreenShot_juneTemps.png)
+
+![ScreenShot_decemberTemps.png](https://github.com/charliuden/Surfs-Up/blob/main/Resources/ScreenShot_decemberTemps.png)
 
 
 ## Summary: 
