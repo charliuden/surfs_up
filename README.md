@@ -12,7 +12,7 @@ In another script, SurfsUp_Challenge.ipynb, temperature data for the months of J
 
 ![ScreenShot_juneTemps.png](https://github.com/charliuden/surfs_up/blob/main/Resources/ScreenShot_decemberTemps.png)
 
-![ScreenShot_decemberTemps.png](https://github.com/charliuden/surfs-up/blob/main/Resources/ScreenShot_decemberTemps.png)
+![ScreenShot_decemberTemps.png](https://github.com/charliuden/surfs_up/blob/main/Resources/ScreenShot_decemberTemps.png)
 
 * The mean temperature in December is just four degrees cooler than in June.
 * The maximum temperature in December (83°F) is also not much cooler than June's maximum temperature (85°F) - just two degrees cooler. 
