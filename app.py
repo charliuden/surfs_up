@@ -15,7 +15,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
 # import flask
-from flask import Flask
+from flask import Flask, jsonify
 
 #set up our database engine for the Flask application (allows you to access the sql databaase)
 engine = create_engine("sqlite:///hawaii.sqlite")
